@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Master Thesis
-- 🌱 I’m currently learning Machine Learning, Deep Learning.
-- 👯 I’m looking to collaborate on Data scientist Projects.
+- 🔭
+- 🌱 
+- 👯 
 
 <!--
 **FarzanehDG/FarzanehDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
