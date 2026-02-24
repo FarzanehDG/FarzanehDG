@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Master Thesis
+- 🔭 I’m currently working
 - 🌱 I’m currently learning Machine Learning, Deep Learning.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
